@@ -4,6 +4,7 @@ In this project, the dynamics of the 6-degree-of-freedom aircraft are modeled. A
 
 # File Description
 
+- " F16_LookupTables.mat " : Aerodynamic and thrust data  
 - " AtmosferModel.slx " : Atmosfer model library 
 - " coeff " : Aerodynamic coefficient library 
 - " propulsive.slx " : Thrust model library 
